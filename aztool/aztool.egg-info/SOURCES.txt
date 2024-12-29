@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+aztool/__init__.py
+aztool/core.py
+aztool.egg-info/PKG-INFO
+aztool.egg-info/SOURCES.txt
+aztool.egg-info/dependency_links.txt
+aztool.egg-info/entry_points.txt
+aztool.egg-info/top_level.txt

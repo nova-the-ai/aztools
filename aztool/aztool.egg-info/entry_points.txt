@@ -1,0 +1,3 @@
+[console_scripts]
+aztool-greet = aztool.core:greet
+aztool-wifi = aztool.core:get_wifi_details
